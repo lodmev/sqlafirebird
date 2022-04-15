@@ -17,9 +17,8 @@ An external SQLAlchemy dialect for Firebird
 
 **Installation**
 
-::
 
-    pip install sqlalchemy-firebird
+``pipenv install https://raw.githubusercontent.com/lodmev/sqlafirebird/master/dist/sqlalchemy_firebird-0.7.5-py3-none-any.whl``
 
 |
 |  Connection URI samples for Firebird server installed on local machine using default port (3050):
