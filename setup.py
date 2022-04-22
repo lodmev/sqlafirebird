@@ -17,7 +17,7 @@ readme = os.path.join(os.path.dirname(__file__), "README.rst")
 
 
 setup(
-    name="sqlalchemy-firebird",
+    name="sqlafirebird",
     version=VERSION,
     description="Firebird for SQLAlchemy",
     long_description=open(readme).read(),
